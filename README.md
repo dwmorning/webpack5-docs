@@ -1,1 +1,1 @@
-# webpack5-docs
+https://dwmorning.github.io/webpack5-docs/
